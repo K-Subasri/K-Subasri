@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**K-Subasri/K-Subasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Subasri K**, a Computer Science student passionate about transforming ideas into impactful software solutions.
 
-Here are some ideas to get you started:
+💻 Exploring Software Development, AI, and Web Technologies  
+🚀 Building projects that solve real-world problems  
+🌱 Continuously learning, improving, and embracing new challenges  
+🎯 Aspiring Software Engineer focused on innovation and growth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Every expert was once a beginner. Every line of code is a step forward."
+
+## What I'm Working On
+
+- Data Structures & Algorithms
+- Java Development
+- Full Stack Web Development
+- Database Management Systems
+- AI & Emerging Technologies
+
+## Core Skills
+
+**Languages:** Java, JavaScript, SQL  
+**Web:** HTML, CSS  
+**Tools:** Git, GitHub  
+**Concepts:** DBMS, OOP, Problem Solving
+
+## Goals for 2026
+
+- Build impactful software projects
+- Contribute to Open Source
+- Strengthen DSA and Development Skills
+- Secure Software Development Opportunities
+- Grow as a Developer Every Day
+
+### Connect With Me
+
+💼 LinkedIn: [https://www.linkedin.com/in/subasri20/]
+
+---
+
+⭐ Learning • Building • Growing • Innovating
